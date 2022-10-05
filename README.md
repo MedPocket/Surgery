@@ -1,5 +1,7 @@
 # Surgery
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/Surgery?logo=github&label=Download)](https://github.com/MedPocket/Surgery/archive/refs/heads/main.zip)
+
 Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.
 
 The document repository is written by MedPocket about surgery.
